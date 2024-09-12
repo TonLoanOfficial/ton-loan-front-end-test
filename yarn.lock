@@ -588,6 +588,18 @@
     deepmerge "^4.2.2"
     ua-parser-js "^1.0.35"
 
+"@twa-dev/sdk@^7.10.0":
+  version "7.10.0"
+  resolved "https://registry.npmmirror.com/@twa-dev/sdk/-/sdk-7.10.0.tgz#e0ebfd6ae205ca24ee4efb1f18e2d2a1d2c2c612"
+  integrity sha512-dVuZ8le4+PI6FOt9OoaGLqMS4GnZXkjuDd4tQZgDJyHbP2jmD83dzt1vkR7olPoGxvGYIlsMkE+EYfp4mxtRSQ==
+  dependencies:
+    "@twa-dev/types" "^7.10.0"
+
+"@twa-dev/types@^7.10.0":
+  version "7.10.0"
+  resolved "https://registry.npmmirror.com/@twa-dev/types/-/types-7.10.0.tgz#907f3e4bc082405a3130dee82a66dbf01d6fd33e"
+  integrity sha512-BXHyNLXy+cPbOZ2qQq5ArPKcP4kUfuX3YBSFT0XUxtMNWAzvyMuYAiq59UTfQ8OnELXlfChrAoIT3c2pujBtcQ==
+
 "@types/babel__core@^7.20.5":
   version "7.20.5"
   resolved "https://registry.npmmirror.com/@types/babel__core/-/babel__core-7.20.5.tgz"
